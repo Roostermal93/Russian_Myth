@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
@@ -16,6 +16,20 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Russian/36a4667d-f9d8-48c9-a1bb-b4a92e8655ae_ru_Male.mp4"
+        },
+        {
+            "id": "61d3476a-d951-48dc-a0da-5577bf7a21bc",
+            "collectionId": "Russian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Russian/61d3476a-d951-48dc-a0da-5577bf7a21bc_ru_Female.mp4"
+        },
+        {
+            "id": "24738438-866b-4845-84e4-a1f4d2270b9d",
+            "collectionId": "Russian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Russian/24738438-866b-4845-84e4-a1f4d2270b9d_ru_Female.mp4"
         },
         {
             "id": "80d14223-f665-40a5-8002-e71301fc7e87",
